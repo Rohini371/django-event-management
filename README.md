@@ -11,4 +11,11 @@
 8. Finally Run The Project `python manage.py runserver`
 
 ## Preview
+1.Demo1
 ![event-management-categorylist](https://github.com/user-attachments/assets/82c476c6-a3eb-42e9-9b4e-863258d10bb0)
+2.Dempo2
+![demo1](https://github.com/user-attachments/assets/acd62159-7369-4abb-b2b4-710926407a7e)
+3.Demo3
+![demo2](https://github.com/user-attachments/assets/6ebea562-ea38-4b8d-86a7-1e9f3de4be68)
+4.Demo3
+![demo3](https://github.com/user-attachments/assets/0064d5e8-d1ee-4b7a-bba9-90c07709a93d)
